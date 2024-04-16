@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/joe733/asdf-pipx/compare/v1.0.0...v1.1.0) (2023-04-22)
+
+
+### Features
+
+* update latest-stable ([df17171](https://github.com/joe733/asdf-pipx/commit/df17171a5d23a4b66a5a7740f49d14d027063977))
+
+
+### Bug Fixes
+
+* portable sourcing ([9f90481](https://github.com/joe733/asdf-pipx/commit/9f904815c9979a319b48e8256918a55963d436ea))
+
 ## 1.0.0 (2023-04-18)
 
 
