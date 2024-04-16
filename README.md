@@ -1,6 +1,6 @@
 <div align="center">
 
-# asdf-pipx [![Build](https://github.com/joe733/asdf-pipx/actions/workflows/build.yml/badge.svg)](https://github.com/joe733/asdf-pipx/actions/workflows/build.yml) [![Lint](https://github.com/joe733/asdf-pipx/actions/workflows/lint.yml/badge.svg)](https://github.com/joe733/asdf-pipx/actions/workflows/lint.yml)
+# asdf-pipx [![Build](https://github.com/yozachar/asdf-pipx/actions/workflows/build.yml/badge.svg)](https://github.com/yozachar/asdf-pipx/actions/workflows/build.yml) [![Lint](https://github.com/yozachar/asdf-pipx/actions/workflows/lint.yml/badge.svg)](https://github.com/yozachar/asdf-pipx/actions/workflows/lint.yml)
 
 [pipx](https://pypa.github.io/pipx/) plugin for the [asdf version manager](https://asdf-vm.com).
 
@@ -32,7 +32,7 @@ Plugin:
 ```shell
 asdf plugin add pipx
 # or
-asdf plugin add pipx https://github.com/joe733/asdf-pipx.git
+asdf plugin add pipx https://github.com/yozachar/asdf-pipx.git
 ```
 
 pipx:
@@ -58,8 +58,8 @@ install & manage versions.
 
 Contributions of any kind welcome! See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/joe733/asdf-pipx/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/yozachar/asdf-pipx/graphs/contributors)!
 
 # License
 
-See [LICENSE](LICENSE) © [Jovial Joe Jayarson](https://github.com/joe733/)
+See [LICENSE](LICENSE) © [Yozachar](https://github.com/yozachar)
