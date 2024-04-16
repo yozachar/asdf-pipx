@@ -19,4 +19,4 @@ jobs:
       - name: asdf_plugin_test
         uses: asdf-vm/actions/plugin-test@v2
         with:
-          command: pipx --version
+          command: alias python3='python'; pipx --version
